@@ -12,10 +12,10 @@
 | A02 | Studierende buchen sie | Studierende der THM | FA |
 | A03 | Sekretariate behalten den Überblick | THM | QA |
 | A04 | Die Software soll sich über das Hochschulkonto bedienen lassen. | THM | QA |
-| A05 |  Zunächst soll sie Termine als iCal-Datei zum Herunterladen anbieten | THM | FA |
+| A05 | Zunächst soll sie Termine als iCal-Datei zum Herunterladen anbieten | THM | FA |
 | A06 | Außerdem soll sie eine API bekommen, über die KI-Agenten sie steuern können. | THM | FA |
 | A07 | Ich will einen Termin auf dem Smartphone  anlegen | Student | QA |
-| A08 | Ich will, dass der Terminplaner 
+| A08 | Ich will, dass der Terminplaner DSGVO-konform ist | THM | RB |
 
 
 ## Eine Anforderung, die niemand ausgesprochen hat
@@ -24,4 +24,4 @@
      ausgesprochen hat, obwohl sie gilt, und in ein bis zwei Sätzen, warum
      sie niemand genannt hat. -->
 
-…
+| A08 | Diese Anforderung, könnte niemand ausgesprochen haben, weil es als selbstverständlich gilt.
