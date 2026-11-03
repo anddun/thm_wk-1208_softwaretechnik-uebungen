@@ -51,7 +51,11 @@ c55409f Übung 2 : Ergebnisse von akyf (#283)
 }
 ```
 
+<<<<<<< HEAD
 Read directory C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen, entries 1-7
+=======
+Read directory C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen, entries 1-7
+>>>>>>> 6c3eca126ede764c5270a025e7858683c5bb4911
 .git\
 ue01\
 ue02\
@@ -80,6 +84,7 @@ Branch is ue04-anddun, user is anddun. Let me look at ue04/anddun and the overal
 
 FullName                                                                                                            
 --------                                                                                                            
+<<<<<<< HEAD
 C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\anddun\einrichtung.md
 C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue01\steckbriefe          
 C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue01\README.md            
@@ -294,6 +299,222 @@ C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwar
 C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\anddun               
 C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\_vorlage             
 C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\README.md            
+=======
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\anddun\einrichtung.md
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue01\steckbriefe          
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue01\README.md            
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\aayd                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\abdu113              
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\af                   
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\agbr                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\Agub                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\ahyi                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\akyf                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\anas23088            
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\anddun               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\andel0               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\anpa                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\anushka              
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\athr                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\avon507              
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\ayue                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\bblj09               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\bima                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\datr03               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\div                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\dlm28                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\dmmh1710             
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\dsc                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\dsch                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\dszp                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\emrano               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\en7-mj               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\ezen                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\fahm                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\flk                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\fortnitepro          
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\hams                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\hfdr12               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\iaa                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\iesp                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\ilias04j             
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\ivlbs                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\IY69                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\janp                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\javu11               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\jemy                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\jp26                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\jsug                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\jvng                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\kraz                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\lebr                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\lom                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\Lpr                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\mabl                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\masalabyte           
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\maxbarrosschauer     
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\mbgrn04              
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\mduc                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\meq                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\mf23                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\mjab                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\mjas                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\mk                   
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\mkon                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\mpal                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\mu                   
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\mw                   
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\my55                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\ngh                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\nicolino             
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\nko                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\nly50                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\NN                   
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\nohl                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\NUAli                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\oubou                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\pdam                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\pgml                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\pz01                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\qdb                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\qho                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\real                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\renn                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\sahmad               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\sahmed               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\sam                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\skrl78               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\skt435               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\snab                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\sngu                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\ssda78               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\sshj44               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\ssng61               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\stmx                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\talh                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\TariqK2004           
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\tcam                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\thm-nos              
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\thng                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\tiger                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\tnd                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\tngan                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\trry                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\ttpr21               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\tyfncc               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\uwar                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\vic26                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\virus                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\wnga                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\ygue                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\ysbi82               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\zcbn                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\zcoel                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\zsh                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\_vorlage             
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\_zugabe              
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue02\README.md            
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\aayd                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\af                   
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\agbr                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\ahyi                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\akyf                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\anas23088            
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\anddun               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\andel0               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\anpa                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\anushka              
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\avon507              
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\ayue                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\azm96                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\bblj09               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\bogh233              
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\cms                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\davn68               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\dlm28                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\dmmh1710             
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\dsch                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\ecib                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\emrano               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\en7-mj               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\ezen                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\fahm                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\flk                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\hfdr12               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\iaa                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\ilias04j             
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\IY69                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\janp                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\javu                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\jemy                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\jsug                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\jvng                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\kraz                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\lkrs                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\lom                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\Lpr                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\masalabyte           
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\maxbarrosschauer     
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\mduc                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\meq                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\mjab                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\MK                   
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\mken                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\mkon                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\moh                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\mpal                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\mskk15               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\mu                   
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\mw                   
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\my55                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\nicolino             
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\nko                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\nly50                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\NN                   
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\nohl                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\NUAli                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\onzj                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\oubou                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\pdam                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\pgml                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\pz01                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\qho                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\real                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\sahmad               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\sahmed               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\sam                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\skrl78               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\snab                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\sngu                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\sraks                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\ssda78               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\sshj44               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\stmx                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\talh                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\TariqK2004           
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\tcam                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\tiger                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\tnd                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\trry                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\tyfncc               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\uwar                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\val                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\vic26                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\virus                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\wnga                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\ygue                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\ykar                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\z-266                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\zc                   
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\zcbn                 
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\zcoel                
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\zsh                  
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\_vorlage             
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue03\README.md            
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\anddun               
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\_vorlage             
+C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\README.md            
+>>>>>>> 6c3eca126ede764c5270a025e7858683c5bb4911
 
 
 
@@ -307,7 +528,11 @@ C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwar
 }
 ```
 
+<<<<<<< HEAD
 Read file C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\README.md, lines 1-74
+=======
+Read file C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\README.md, lines 1-74
+>>>>>>> 6c3eca126ede764c5270a025e7858683c5bb4911
 1: # Softwaretechnik — Übungsrepository
 2: 
 3: Dieses Repository gehört zu den Übungen der Veranstaltung **Softwaretechnik**
@@ -572,7 +797,11 @@ ue04\anddun\einrichtung.md
 }
 ```
 
+<<<<<<< HEAD
 Read file C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\anddun\einrichtung.md, lines 1-55
+=======
+Read file C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\anddun\einrichtung.md, lines 1-55
+>>>>>>> 6c3eca126ede764c5270a025e7858683c5bb4911
 1: # Einrichtung — Coding Agent
 2: 
 3: <!-- Aufgaben 1 und 2 des Übungsblatts. Ersetzen Sie jedes „…“ durch Ihre
@@ -648,9 +877,15 @@ Let me check log for ue02/anddun and ue03/anddun to confirm provenance and any o
 }
 ```
 
+<<<<<<< HEAD
 a58c8e0 … Übung 3: Ergebnisse von anddun (#367)
 7c98c7f … anddun steckbrief (#176)
 8572660 … anddun steckbrief (#64)
+=======
+a58c8e0 anddun Übung 3: Ergebnisse von anddun (#367)
+7c98c7f anddun anddun steckbrief (#176)
+8572660 anddun anddun steckbrief (#64)
+>>>>>>> 6c3eca126ede764c5270a025e7858683c5bb4911
 ?? ue04/anddun/
 ue01/steckbriefe/anddun.md
 ue02/anddun/notiz.md
@@ -718,7 +953,11 @@ Let me maybe read ue04/README to mention what's required? Useful: ue04 requires 
 }
 ```
 
+<<<<<<< HEAD
 Read file C:\Users\<benutzername>\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\README.md, lines 1-40
+=======
+Read file C:\Users\anddun\thm_wk-1208_softwaretechnik-uebungen\thm_wk-1208_softwaretechnik-uebungen\ue04\README.md, lines 1-40
+>>>>>>> 6c3eca126ede764c5270a025e7858683c5bb4911
 1: # Übung 4 — Einen Coding Agent einrichten
 2: 
 3: In dieser Übung installieren Sie einen Coding Agent — das Übungsblatt
